@@ -98,10 +98,6 @@ Fill this in after running. Numbers below are placeholders.
 | CBAM | P3 | | | | |
 | Coordinate Attention | P3 | | | | |
 
-Example figure (replace with your own):
-
-![Grad-CAM comparison](outputs/figures/fig13_qualitative_grid.png)
-
 ## Reading the results
 
 The test set has about 550 images, so a single image is worth roughly 0.18 accuracy points. Each configuration is trained once with one seed, and GPU training is not bit-for-bit repeatable. Differences of less than about one point between two models should not be read as one being better. The accuracy bar chart draws a 95% binomial interval for this reason.
