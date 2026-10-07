@@ -124,6 +124,3 @@ Grad-CAM and the internal attention maps are different things. The attention map
 6. Vaswani et al. Attention Is All You Need. NeurIPS 2017.
 7. Selvaraju et al. Grad-CAM: Visual Explanations from Deep Networks via Gradient-Based Localization. ICCV 2017.
 
-## Author
-
-Your name, roll number, section. Course: CS3807, AY 2026-27.
